@@ -5,6 +5,6 @@ numpy
 matplotlib
 streamlit-option-menu
 streamlit-extras
-stringIo
+Io
 boto3
 datetime
